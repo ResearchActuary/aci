@@ -1,0 +1,18 @@
+Package: aci
+Type: Package
+Title: aci
+Version: 0.1.0
+Author: Brian A. Fannin 
+Maintainer: Brian A. Fannin <researchactuary@casact.org>
+Description: Helper functions 
+License: LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr
+  , readxl
+  , tidyr
+  , stringr
+Suggests: 
+    testthat
+RoxygenNote: 7.1.0
