@@ -9,10 +9,11 @@ License: LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports:
-  dplyr
-  , readxl
-  , tidyr
-  , stringr
+  dplyr, 
+  readxl,
+  tidyr, 
+  stringr,
+  magrittr
 Suggests: 
     testthat
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.2
